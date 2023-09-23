@@ -1,0 +1,24 @@
+#! /usr/bin/env zsh
+
+alias l="ls -l"
+alias la="ls -ah"
+alias ll="ls -alh"
+alias lt="ls -atr"
+alias llt="ls -altr"
+alias where="which"
+
+## Git
+
+alias gst="git status"
+alias gsb="git status -s"
+
+## Kubernetes
+
+alias k="kubectl"
+alias ktx="kubectx"
+
+
+## Terraform
+
+alias tf="terraform"
+

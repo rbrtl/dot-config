@@ -1,0 +1,2 @@
+# dot-config
+Portable configuration

@@ -1,0 +1,11 @@
+right_format = "$time"
+
+[time]
+disabled = false
+
+
+[terraform]
+format = "[$symbol$version::$workspace]($style) "
+
+[nodejs]
+symbol = " "
